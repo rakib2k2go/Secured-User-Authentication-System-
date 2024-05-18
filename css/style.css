@@ -1,0 +1,37 @@
+footer {
+    background-color: 	#33ccff;
+    padding: 20px 0; 
+    
+}
+
+footer p {
+    margin-bottom: 0; 
+    font-size: 14px; 
+    color: #ffffff;
+   
+}
+
+
+nav {
+    background-color:#33ccff;
+}
+
+nav a{
+    color: #ffffff;
+}
+
+.navbar-brand:hover{
+    color: #33ccff;
+}
+.navbar-nav .nav-link:hover {
+    color: #33ccff; 
+}
+
+.navbar-nav .nav-item.active .nav-link {
+    color: #33ccff; 
+}
+main {
+    margin-bottom: 25rem;
+}
+
+
