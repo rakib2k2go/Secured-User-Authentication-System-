@@ -35,8 +35,8 @@ if (isset($_POST['register_btn'])) {
                 $mail->isSMTP();
                 $mail->Host = 'smtp.gmail.com'; // Gmail SMTP server host
                 $mail->SMTPAuth = true;
-                $mail->Username = 'rakibulhoque2k2@gmail.com'; // Your Gmail username
-                $mail->Password = 'uqtfmvniuvkaiajk'; // Your Gmail password
+                $mail->Username = 'yourmail@gmail.com'; // Your Gmail username
+                $mail->Password = 'your google app password'; // Your Gmail password
                 $mail->SMTPSecure = 'tls';
                 $mail->Port = 587;
 
